@@ -3,6 +3,7 @@
 A collection of materials about CNNs and computer vision in general
 - Introduction to CNNs
 - Advanced CNNs
+- A note on convolution implementations
 - Image augmentation 
 - CNNs pixel explanation using grad cam
 - Transfer learning
