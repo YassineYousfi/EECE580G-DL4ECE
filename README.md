@@ -6,7 +6,7 @@ This is a selection of resources from Binghamton University's EECE580G - Deep Le
 
 Resources and teaching by Yassine Yousfi (me) Jan Butora and Prof. Jessica Fridrich.
 
-[Important] Many notebooks are mostly code cells, those were presented and commented on during class. If you're watching the videos and taking note, please do not hesitate to do so in the notebooks and open a PR. I will be happy to review it.
+**[Contributing]** Many notebooks are mostly code cells, those were presented and commented on during class. If you're watching the videos and taking note, please do not hesitate to do so in the notebooks and open a PR. I will be happy to review it.
 
 This is far from being a complete guide to Deep Learning. Covering all aspects of Deep Learning, while also working on practical examples is challenging. 
 
