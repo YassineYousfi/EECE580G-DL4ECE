@@ -31,7 +31,7 @@ For a more complete course, I encourage you to check:
     <tr>
       <th scope="row">Introduction to Object Oriented Programing</th>
       <td> </td>
-      <td><a href="https://binghamton.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=52056950-d55b-4522-8a02-ac1f017050d8" target="_blank"><i class="fa fa-film"></i></a></td>
+      <td> [link](https://binghamton.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=52056950-d55b-4522-8a02-ac1f017050d8)</td>
       <td><a href="materials/python/object_oriented_programming.ipynb"><i class="fab fa-github" aria-hidden="true"></i></a></td>
     </tr>
     <tr>
